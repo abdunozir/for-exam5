@@ -71,7 +71,7 @@
 //     arr: [15, 20, 12, 4, -13, 5]
 // }
 // let n =+prompt("siz kiritgan raqam 0 katta va arr ni lengthidan kichik bo'lishi kerak arr length =5 : ")
-// let n =-6
+// let n =-6 bu tekshirish uchun raqam
 
 // if(n > 5) {
 //     alert("siz kiritgan raqam arr lengtidan uzun Iltimos boshqattan kiriting")
